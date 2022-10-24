@@ -8,6 +8,9 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=milandeepak" alt="milandeepak" /> </p>
 
+## HACKTOBERFEST 2022
+[![@milandeepak's Holopin board](https://holopin.me/milandeepak)](https://holopin.io/@milandeepak)
+
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=milandeepak&theme=algolia" alt="milandeepak"  /></p>
 
